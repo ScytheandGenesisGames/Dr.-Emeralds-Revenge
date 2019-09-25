@@ -1,0 +1,5 @@
+#ifndef _RES_ALEXSPRITES_H_
+#define _RES_ALEXSPRITES_H_
+
+
+#endif // _RES_ALEXSPRITES_H_
